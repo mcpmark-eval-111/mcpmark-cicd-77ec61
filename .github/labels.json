@@ -1,0 +1,57 @@
+[
+  {
+    "name": "bug",
+    "color": "d73a4a",
+    "description": "Something isn't working"
+  },
+  {
+    "name": "enhancement",
+    "color": "a2eeef",
+    "description": "New feature or request"
+  },
+  {
+    "name": "epic",
+    "color": "fbca04",
+    "description": "Large feature requiring multiple sub-tasks"
+  },
+  {
+    "name": "maintenance",
+    "color": "0052cc",
+    "description": "Maintenance and housekeeping tasks"
+  },
+  {
+    "name": "priority-critical",
+    "color": "b60205",
+    "description": "Critical priority issue"
+  },
+  {
+    "name": "priority-high",
+    "color": "d93f0b",
+    "description": "High priority issue"
+  },
+  {
+    "name": "priority-medium",
+    "color": "fef2c0",
+    "description": "Medium priority issue"
+  },
+  {
+    "name": "priority-low",
+    "color": "0e8a16",
+    "description": "Low priority issue"
+  },
+  {
+    "name": "needs-triage",
+    "color": "d4c5f9",
+    "description": "Needs to be reviewed by maintainers"
+  },
+  {
+    "name": "needs-review",
+    "color": "cccccc",
+    "description": "Awaiting review from maintainers"
+  },
+  {
+    "name": "first-time-contributor",
+    "color": "7057ff",
+    "description": "Issue created by first-time contributor"
+  }
+]
